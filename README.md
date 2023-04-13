@@ -38,6 +38,6 @@ Our algorithm was determined to run in O(kn) time, where k is the length of the 
 
 ## Task Separation and Responsibilities. 
 
-Andjela wrote the documentation and uploaded the code to github, with additional implementation to make it easier for marking. Arya focused on creating the final report and congregating our findings. Mackenzie created a presentation and a video presentation.
+Andela wrote the documentation and uploaded the code to github, with additional implementation to make it easier for marking. Arya focused on creating the final report and congregating our findings. Mackenzie created a presentation and a video presentation.
 
 
