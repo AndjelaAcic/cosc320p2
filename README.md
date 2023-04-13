@@ -33,5 +33,5 @@ To test the time it takes to run our program for different input sizes, we used 
 
 ## Results
 Our algorithm was determined to run in O(kn) time, where k is the length of the abbreviations list and n is the number of tweets analyzed. Since we used a brute force method, the result of our algorithm is approximately what we expected. The algorithm is designed to look through the entire length of the abbreviation list and the entire length of each tweet (up to 280 characters) therefore, this algorithm takes much longer to analyze the samples given. For example, at n = 500000, the time to execute this code takes nearly 8x longer than our original algorithm. 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AndjelaAcic/cosc320p2/blob/03b52bda9cc986c2f74317c205737a932a64bba2/graph.png)
 
