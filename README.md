@@ -36,3 +36,8 @@ Our algorithm was determined to run in O(kn) time, where k is the length of the 
 
 ![alt text](https://github.com/AndjelaAcic/cosc320p2/blob/03b52bda9cc986c2f74317c205737a932a64bba2/graph.png)
 
+## Task Separation and Responsibilities. 
+
+Andjela wrote the documentation and uploaded the code to github, with additional implementation to make it easier for marking. Arya focused on creating the final report and congregating our findings. Mackenzie created a presentation and a video presentation.
+
+
